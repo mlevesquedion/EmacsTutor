@@ -1,0 +1,21 @@
+What is Clojure?
+
+Clojure is a functional programming language that features a concise syntax,
+elegant concurrency support and frictionless Java integration.
+
+Clojure’s approach to programming enables you to write most of your
+applications’ code as series of pure functions, each one operating only on the
+immutable values passed in. Since pure functions have no side-effects they are
+easy to understand, easy to test, and are inherently thread-safe. On top of
+that, Clojure provides a rich set of features that allow threads to coordinate
+state changes in a consistent, controlled fashion.
+
+Clojure's Lisp based syntax is incredibly easy to learn: Most programmers can
+pick up the basics in an afternoon. It is also very concise, which means you
+spend less time typing and more time designing.
+
+Finally, Clojure is designed from the ground up to work seamlessly on the
+Java Virtual Machine. Clojure compiles to Java bytecode, can use any existing
+Java jar file, instantiate any Java class, and call any Java method.
+Interoperability is built into the syntax, making it easy to write code that
+interacts with Java.
